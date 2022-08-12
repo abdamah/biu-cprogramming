@@ -2,7 +2,7 @@
 
 In programming, a variable is a container (storage area) to hold data.
 
-In C, there are different types of variables with different **data types**. Later chapter we will see _data types_.
+In C, there are different types of variables with different **data types**. Later chapters we will see _data types_.
 
 ## Examples
 
