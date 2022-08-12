@@ -17,6 +17,7 @@ int main(void) // Main() Function
   return 0;
 }
 
+// User Define programs/functions or subprograms.
 void structure(void)
 {
   printf("C Structure program.\n");
