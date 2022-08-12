@@ -6,7 +6,7 @@
 
 #include <stdio.h> //Link or header file
 
-#define YEAR 2000 // Definition processor or macros
+#define YEAR 2022 // Definition processor or macros
 
 void structure(void); // Global Declaration
 int age = 24;         // Global Declaration
