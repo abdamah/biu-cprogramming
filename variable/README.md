@@ -17,8 +17,8 @@ In C, there are different types of variables with different **data types**. Late
 3. There is no rule on how long a variable name (identifier) can be. However, you may run into problems in some compilers if the variable name is **longer than 31 characters.**
 
 ## Example
-```diff
-- `int` number = 10;
-+ `char` letter = 'A';
-! `double` price = 99.99;
+``` C
+- int number = 10;
+- char letter = 'A';
+- double price = 99.99;
 ```
