@@ -1,7 +1,5 @@
 #include <stdio.h>
-/**
- * program that adds even number and odd number in between 1 - 100 numbers.
-*/
+
 int main()
 {
     int number;
