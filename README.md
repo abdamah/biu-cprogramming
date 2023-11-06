@@ -23,3 +23,6 @@ C is strongly associated with UNIX, as it was developed to write the UNIX operat
 - There are many text editors and compilers to choose from. You can use an **IDE** .
 
 - But in this course we use **Vs Code** as our _IDE_
+
+## Author:
+**Abdallah Mahmoud** [https://shorturl.at/lCN36]
