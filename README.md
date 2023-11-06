@@ -18,7 +18,7 @@ C is strongly associated with UNIX, as it was developed to write the UNIX operat
 
 - To start using C, you need two things:
 
-- A text editor, like Notepad, to write C code, code block
+- A text editor, like VS Code,Notepad, to write C code, code block
 - A compiler, like GCC, to translate the C code into a language that the computer will understand
 - There are many text editors and compilers to choose from. You can use an **IDE** .
 
